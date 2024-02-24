@@ -5,3 +5,4 @@
 4. Rock Paper Scissors.
 5. Hangam.
 6. Tic-Tac-Toe.
+7. Tic-Tac-Toe AI. (using Minmax algorithm)
