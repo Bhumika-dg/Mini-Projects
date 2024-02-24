@@ -12,4 +12,4 @@ def guess(x):
     
     print(f"Hurray, You guess is perfect. ")
 
-guess(100)
+guess(35)
