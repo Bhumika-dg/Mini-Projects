@@ -9,4 +9,5 @@
 8. Binary Search.
 9. Minesweeper.
 10. Sudoku.
-11. Photo Manipulation.
+11. Photo Manipulation in Python.
+12. Markov Chain Text Composer
