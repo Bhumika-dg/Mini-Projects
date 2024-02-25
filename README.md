@@ -8,3 +8,4 @@
 7. Tic-Tac-Toe AI. (using Minmax algorithm)
 8. Binary Search.
 9. Minesweeper.
+10. Sudoku.
