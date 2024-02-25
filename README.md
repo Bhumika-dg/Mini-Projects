@@ -9,3 +9,4 @@
 8. Binary Search.
 9. Minesweeper.
 10. Sudoku.
+11. Photo Manipulation.
