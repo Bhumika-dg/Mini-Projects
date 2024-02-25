@@ -6,4 +6,5 @@
 5. Hangam.
 6. Tic-Tac-Toe.
 7. Tic-Tac-Toe AI. (using Minmax algorithm)
-8. Binary Search
+8. Binary Search.
+9. Minesweeper.
